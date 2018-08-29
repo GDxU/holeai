@@ -1,0 +1,11 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "normal": [
+            { "model": "daisy", "y": 0 },
+            { "model": "daisy", "y": 90 },
+            { "model": "daisy", "y": 180 },
+            { "model": "daisy", "y": 270 }
+        ]
+    }
+}
